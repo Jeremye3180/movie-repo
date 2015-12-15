@@ -13,9 +13,20 @@ p  {
     
 }
 
+
 html {
     background:url(http://img01.deviantart.net/0155/i/2013/064/b/8/background_space_by_billyfabiancow-d5x321d.png) no-repeat;
 }
+
+#alien {
+    margin: center;
+    width: 150px;
+    height: 150px;
+    
+}
+
+
+
 
 
 
