@@ -6,27 +6,44 @@ h1 {
    font-size: 100px; 
 
 }
+h2 {
+   text-align: center; 
 
+
+}
 p  {
+    
     font-size: 20px;
-
+    color: white;
     
 }
 
 
 html {
-    background:url(http://img01.deviantart.net/0155/i/2013/064/b/8/background_space_by_billyfabiancow-d5x321d.png) no-repeat;
+   
+    background-color: gray;
 }
 
 #alien {
-    margin: center;
-    width: 150px;
-    height: 150px;
+    float: right;
+    width: 300px;
+    height: 300px;
+    
     
 }
 
+#superhero {
+    
+   height: 200px;
+    width: 200px;
+    
+}
 
-
+.movie {
+    margin: 5cm 5cm 5cm 5cm;
+    text-align: center;
+   
+}
 
 
 
