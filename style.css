@@ -1,18 +1,24 @@
 
 h1 {
+
     font-family: Orbitron;
     
-    background: url();
+    
+
+   
+   text-align: center; 
+   font-size: 100px; 
+
+}
+
+p  {
+    font-size: 20px;
+
     
 }
 
-#para {
-    font-size: 15px;
 
-    
-}
-#para2 {
-    
-    color: red;
-    
+html {
+    back-ground: 
+
 }
